@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "2022Fall-IERG3080-Matching-Pairs/1.0.0": {
+        "runtime": {
+          "2022Fall-IERG3080-Matching-Pairs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2022Fall-IERG3080-Matching-Pairs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
